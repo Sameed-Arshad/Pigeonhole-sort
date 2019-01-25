@@ -1,0 +1,12 @@
+C:\Users\17b-020-cs\Documents\Visual Studio 2013\Projects\project\project\bin\Debug\project.exe.config
+C:\Users\17b-020-cs\Documents\Visual Studio 2013\Projects\project\project\bin\Debug\project.exe
+C:\Users\17b-020-cs\Documents\Visual Studio 2013\Projects\project\project\bin\Debug\project.pdb
+C:\Users\17b-020-cs\Documents\Visual Studio 2013\Projects\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\17b-020-cs\Documents\Visual Studio 2013\Projects\project\project\obj\Debug\project.exe
+C:\Users\17b-020-cs\Documents\Visual Studio 2013\Projects\project\project\obj\Debug\project.pdb
+D:\Spare\Data Structures CS211 lab\project\project\bin\Debug\project.exe.config
+D:\Spare\Data Structures CS211 lab\project\project\obj\Debug\project.exe
+D:\Spare\Data Structures CS211 lab\project\project\obj\Debug\project.pdb
+D:\Spare\Data Structures CS211 lab\project\project\bin\Debug\project.exe
+D:\Spare\Data Structures CS211 lab\project\project\bin\Debug\project.pdb
+D:\Spare\Data Structures CS211 lab\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
