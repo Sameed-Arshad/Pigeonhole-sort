@@ -1,6 +1,6 @@
 # Pigeonhole-sort
 Markup : * This is the implementation of sorting the data using the pigeonhole principle.
-           _ This code is my project.
+         * This code is my project.
 # Concepts
 Markup : * First find the minimum and maximum in the given array to get the range.
          * The range = max-min+1 which will hepls to find the containers for the objects.
@@ -14,6 +14,4 @@ Markup : * SAMEED ARSHAD (17B-020-CS)
 Markup : * Install Visual Studio Ultimate 2013 with Update 5
          * Open the file in Visual Studio 
          * Press the ctrl+F5 keys or press the start button in the top to execute the program
-100. First list item
-     - First nested list item
-       - Second nested list item
+
